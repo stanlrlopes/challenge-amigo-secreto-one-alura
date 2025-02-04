@@ -34,7 +34,7 @@ Caso tenha um vídeo demonstrativo, adicione o link abaixo:
 ## 📌 Como Rodar o Projeto
 ```bash
 # Clone este repositório:
-git clone 
+git clone git@github.com:stanlrlopes/challenge-amigo-secreto-one-alura.git
 
 # Acesse a pasta do projeto:
 cd amigo-secreto
@@ -43,4 +43,4 @@ cd amigo-secreto
 ```
 ---
 
-Feito com ❤️ por [Stanlr Lopes](https://github.com/stanlrlopes)
+Feito por [Stanlr Lopes](https://github.com/stanlrlopes)
