@@ -9,7 +9,7 @@ Um simples aplicativo web para sortear amigos secretos de forma prática e diver
 - ⚠️ Alertar quando o usuário tenta adicionar um nome repetido ou inválido.
 
 ## 🖥️ Capturas de Tela
-Adicione aqui capturas de tela do projeto demonstrando as funcionalidades.
+*Em desemvolvimento
 
 ```markdown
 ![Adicionando Nomes](em-desenvolvimento)
@@ -17,7 +17,7 @@ Adicione aqui capturas de tela do projeto demonstrando as funcionalidades.
 ```
 
 ## 🎥 Demonstração em Vídeo
-Caso tenha um vídeo demonstrativo, adicione o link abaixo:
+*Em desemvolvimento
 
 [🎬 Assista à demonstração](em-desenvolvimento)
 
